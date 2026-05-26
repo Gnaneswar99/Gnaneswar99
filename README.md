@@ -187,7 +187,7 @@ ask_me_about:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gnaneswarm/">
+<a href="https://www.linkedin.com/in/gnaneswarmarkat-12769b1a8/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:gnaneswarm9885@gmail.com">
