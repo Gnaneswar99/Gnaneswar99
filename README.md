@@ -14,7 +14,7 @@
 <a href="https://github.com/Gnaneswar99?tab=followers">
   <img src="https://img.shields.io/github/followers/Gnaneswar99?label=Followers&style=flat&color=6366f1" alt="Followers" />
 </a>
-<a href="https://www.linkedin.com/in/gnaneswarm/">
+<a href="https://www.linkedin.com/in/gnaneswarmarkat-12769b1a8/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
@@ -26,7 +26,7 @@
 
 I'm a **Software Engineer with 4+ years of experience** delivering scalable enterprise applications across **Banking, E-commerce, and Insurance** domains.
 
-- 🏦 Currently building secure, high-throughput backend systems at **Bank of America** (fraud detection + transaction monitoring at 18M+ daily API calls)
+- 🏦 Currently building secure, high-throughput backend systems with fraud detection + transaction monitoring at 18M+ daily API calls.
 - 🧠 Passionate about applying **AI/ML and GenAI** to real-world business problems
 - ☁️ Cloud-native by default — comfortable across **AWS, Azure, and GCP**
 - 🎓 Master's in Computer Science (Data Science) from **University at Buffalo, SUNY** · GPA 3.8/4.0
