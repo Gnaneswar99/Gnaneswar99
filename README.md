@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Gnaneswar+Markat+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+%2B+AI%2FML;4%2B+years+building+enterprise+systems;Java+%C2%B7+Python+%C2%B7+React+%C2%B7+AWS+%C2%B7+GenAI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Gnaneswar+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+%2B+AI%2FML;4%2B+years+building+enterprise+systems;Java+%C2%B7+Python+%C2%B7+React+%C2%B7+AWS+%C2%B7+GenAI" alt="Typing SVG" />
 
 <br/>
 
