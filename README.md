@@ -161,13 +161,7 @@ ask_me_about:
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gnaneswar99&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 📜 Certifications
 
